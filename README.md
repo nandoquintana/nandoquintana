@@ -1,1 +1,1 @@
-:slightly_smiling_face: Hello, I am a software engineer with more than 19 years of experience building internet products. I have a strong background in **Python** and **Javascript** development working mainly on **data** and **backend** stuff.
+:slightly_smiling_face: Hello, I am a software engineer with more than 20 years of experience building internet products. I have a strong background in **Python** development, **platform** management and **SQL**, working mainly on **data** stuff.
